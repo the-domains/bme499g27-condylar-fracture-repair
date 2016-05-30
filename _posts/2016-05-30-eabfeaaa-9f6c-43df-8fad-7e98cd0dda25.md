@@ -1,15 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-05-30T21:58:23.481Z'
-dateModified: '2016-05-30T21:58:01.309Z'
+datePublished: '2016-05-30T22:00:49.640Z'
+dateModified: '2016-05-30T22:00:49.565Z'
 title: ''
-starred: false
 sourcePath: _posts/2016-05-30-eabfeaaa-9f6c-43df-8fad-7e98cd0dda25.md
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
-url: eabfeaaa-9f6c-43df-8fad-7e98cd0dda25/index.html
+url: 093000e5-77f5-4d35-a7a9-3fd1c96fcf76/index.html
 _context: 'http://schema.org'
 _type: Article
 
