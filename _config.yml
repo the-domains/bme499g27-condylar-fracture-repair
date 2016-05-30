@@ -1,0 +1,14 @@
+layout_spectrum: 0.2288352125324309
+typography_spectrum: 0.8580445586703718
+color:
+  brandStrength: 0.3839991525746882
+  lightness: 0.5293696522712708
+  saturation: 0.4287602885160595
+  rhythmicContrast: 0.6291823540814221
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: BME499G27 Condylar Fracture Repair
